@@ -1,4 +1,4 @@
-# ROS2 Path Planning
+# ROS2 Path Planning - Confidence Goal RRT
 
 This repository provides a ROS2-based path planning implementation, adapted from the [AI_winter ros_motion_planning] project.
 
@@ -10,10 +10,6 @@ The algorithm implemented in this repository is ConfidenceGoal-RRT (CG_RRT), opt
 ![Simulation Results](Real_experiment_result.png) 
 
 
-
-## Installation
-
-1. Clone the source code into your workspace:
 ## Installation
 Follow ([https://github.com/AIWinter/ros_motion_planning](https://github.com/ai-winter/ros_motion_planning.git))
 
