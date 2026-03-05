@@ -2,7 +2,7 @@
 
 This repository provides a ROS2-based path planning implementation, adapted from the [AI_winter ros_motion_planning] project.
 
-The algorithm implemented in this repository is ConfidenceGoal-RRT, optimized from the AI Winter framework to address local minima issues in terrain navigation. The comparison results with other RRT-based algorithms are presented in the image below.
+The algorithm implemented in this repository is ConfidenceGoal-RRT (CG_RRT), optimized from the AI Winter framework to address local minima issues in terrain navigation. The comparison results with other RRT-based algorithms are presented in the image below.
 
 
 ![Simulation_PathPlanning](Path_explore.png) 
